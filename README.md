@@ -7,7 +7,7 @@ mysite -> 가상 환경
 cd django_Basic
 ```
 ```
-# mysite.cmd 
+# mysite1.cmd 
 
 C:\django_Basic> mysite1
 ```
